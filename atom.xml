@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>Your Name</name>
+    <name>Wulin</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>https://mcwulin.top/</id>
   <link href="https://mcwulin.top/" rel="alternate"/>
   <link href="https://mcwulin.top/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, Your Name</rights>
+  <rights>All rights reserved 2026, Wulin</rights>
   <subtitle>技术分享与生活记录</subtitle>
-  <title>我的博客</title>
+  <title>Wulin的小空间</title>
   <updated>2026-03-26T02:33:06.314Z</updated>
   <entry>
     <author>
-      <name>Your Name</name>
+      <name>Wulin</name>
     </author>
     <category term="项目展示" scheme="https://mcwulin.top/categories/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/"/>
     <category term="Vue" scheme="https://mcwulin.top/tags/Vue/"/>
     <category term="Node.js" scheme="https://mcwulin.top/tags/Node-js/"/>
     <category term="MySQL" scheme="https://mcwulin.top/tags/MySQL/"/>
     <content>
-      <![CDATA[<h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>这是一个 PDF 图书分享平台，使用 Vue 3 + Node.js + MySQL 开发。</p><h3 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h3><ul><li><strong>前端</strong>: Vue 3 + Vite + Pinia + Vue Router</li><li><strong>后端</strong>: Express + MySQL</li><li><strong>认证</strong>: Session-based 认证</li></ul><h3 id="功能特性"><a href="#功能特性" class="headerlink" title="功能特性"></a>功能特性</h3><ul><li>用户注册登录</li><li>图书上传与下载</li><li>收藏与评分</li><li>积分系统</li><li>管理员后台（审核、用户管理、数据统计）</li></ul><h3 id="演示账号"><a href="#演示账号" class="headerlink" title="演示账号"></a>演示账号</h3><ul><li>管理员: <a href="mailto:&#x61;&#x64;&#x6d;&#x69;&#x6e;&#x40;&#x65;&#x78;&#97;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#111;&#109;">admin@example.com</a> &#x2F; admin123</li></ul><h3 id="GitHub-仓库"><a href="#GitHub-仓库" class="headerlink" title="GitHub 仓库"></a>GitHub 仓库</h3><p><a href="https://github.com/Admin0626/pdf-library">PDF 图书分享平台</a></p>]]>
+      <![CDATA[<h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>这是一个 PDF 图书分享平台，使用 Vue 3 + Node.js + MySQL 开发。</p><h3 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h3><ul><li><strong>前端</strong>: Vue 3 + Vite + Pinia + Vue Router</li><li><strong>后端</strong>: Express + MySQL</li><li><strong>认证</strong>: Session-based 认证</li></ul><h3 id="功能特性"><a href="#功能特性" class="headerlink" title="功能特性"></a>功能特性</h3><ul><li>用户注册登录</li><li>图书上传与下载</li><li>收藏与评分</li><li>积分系统</li><li>管理员后台（审核、用户管理、数据统计）</li></ul><h3 id="演示账号"><a href="#演示账号" class="headerlink" title="演示账号"></a>演示账号</h3><ul><li>管理员: <a href="mailto:&#x61;&#100;&#x6d;&#x69;&#x6e;&#64;&#x65;&#x78;&#97;&#x6d;&#112;&#108;&#x65;&#x2e;&#x63;&#x6f;&#109;">admin@example.com</a> &#x2F; admin123</li></ul><h3 id="GitHub-仓库"><a href="#GitHub-仓库" class="headerlink" title="GitHub 仓库"></a>GitHub 仓库</h3><p><a href="https://github.com/Admin0626/pdf-library">PDF 图书分享平台</a></p>]]>
     </content>
     <id>https://mcwulin.top/2026/03/26/PDF%E5%9B%BE%E4%B9%A6%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/</id>
     <link href="https://mcwulin.top/2026/03/26/PDF%E5%9B%BE%E4%B9%A6%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/"/>
@@ -34,7 +34,7 @@
   </entry>
   <entry>
     <author>
-      <name>Your Name</name>
+      <name>Wulin</name>
     </author>
     <category term="入门指南" scheme="https://mcwulin.top/categories/%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/"/>
     <category term="Hexo" scheme="https://mcwulin.top/tags/Hexo/"/>
@@ -53,7 +53,7 @@
   </entry>
   <entry>
     <author>
-      <name>Your Name</name>
+      <name>Wulin</name>
     </author>
     <content>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
