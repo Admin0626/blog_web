@@ -20,17 +20,14 @@
     <category term="Node.js" scheme="https://mcwulin.top/tags/Node-js/"/>
     <category term="MySQL" scheme="https://mcwulin.top/tags/MySQL/"/>
     <content>
-      <![CDATA[<h2 id="项目简介">项目简介</h2><p>这是一个 PDF 图书分享平台，使用 Vue 3 + Node.js + MySQL 开发。</p><h3 id="技术栈">技术栈</h3><ul><li><strong>前端</strong>: Vue 3 + Vite + Pinia + Vue Router</li><li><strong>后端</strong>: Express + MySQL</li><li><strong>认证</strong>: Session-based 认证</li></ul><h3 id="功能特性">功能特性</h3><ul><li>用户注册登录</li><li>图书上传与下载</li><li>收藏与评分</li><li>积分系统</li><li>管理员后台（审核、用户管理、数据统计）</li></ul><h3 id="演示账号">演示账号</h3><ul><li>管理员: <a href="mailto:admin@example.com">admin@example.com</a> / admin123</li></ul><h3 id="GitHub-仓库">GitHub 仓库</h3><p><a href="https://github.com/Admin0626/pdf-library">PDF 图书分享平台</a></p>]]>
+      <![CDATA[<h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>这是一个 PDF 图书分享平台，使用 Vue 3 + Node.js + MySQL 开发。</p><h3 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h3><ul><li><strong>前端</strong>: Vue 3 + Vite + Pinia + Vue Router</li><li><strong>后端</strong>: Express + MySQL</li><li><strong>认证</strong>: Session-based 认证</li></ul><h3 id="功能特性"><a href="#功能特性" class="headerlink" title="功能特性"></a>功能特性</h3><ul><li>用户注册登录</li><li>图书上传与下载</li><li>收藏与评分</li><li>积分系统</li><li>管理员后台（审核、用户管理、数据统计）</li></ul><h3 id="演示账号"><a href="#演示账号" class="headerlink" title="演示账号"></a>演示账号</h3><ul><li>管理员: <a href="mailto:&#97;&#x64;&#109;&#x69;&#110;&#64;&#101;&#120;&#x61;&#109;&#112;&#x6c;&#101;&#46;&#x63;&#111;&#x6d;">admin@example.com</a> &#x2F; admin123</li></ul><h3 id="GitHub-仓库"><a href="#GitHub-仓库" class="headerlink" title="GitHub 仓库"></a>GitHub 仓库</h3><p><a href="https://github.com/Admin0626/pdf-library">PDF 图书分享平台</a></p>]]>
     </content>
     <id>https://mcwulin.top/2026/03/26/PDF%E5%9B%BE%E4%B9%A6%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/</id>
     <link href="https://mcwulin.top/2026/03/26/PDF%E5%9B%BE%E4%B9%A6%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0/"/>
     <published>2026-03-26T02:30:00.000Z</published>
     <summary>
-      <![CDATA[<h2 id="项目简介">项目简介</h2>
-<p>这是一个 PDF 图书分享平台，使用 Vue 3 + Node.js + MySQL 开发。</p>
-<h3 id="技术栈">技术栈</h3>
-<ul>
-<li><strong>前端</strong>: Vue 3 + Vi]]>
+      <![CDATA[<h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>这是一个 PDF 图书分享平台，使用 Vue 3 + Node.js + MySQL 开发。</p>
+<h3 id="技术栈]]>
     </summary>
     <title>PDF 图书分享平台</title>
     <updated>2026-03-26T02:33:06.314Z</updated>
@@ -43,17 +40,13 @@
     <category term="Hexo" scheme="https://mcwulin.top/tags/Hexo/"/>
     <category term="Butterfly" scheme="https://mcwulin.top/tags/Butterfly/"/>
     <content>
-      <![CDATA[<h2 id="欢迎使用-Hexo-Butterfly-博客">欢迎使用 Hexo + Butterfly 博客</h2><p>这是一篇使用 Hexo 框架和 Butterfly 主题搭建的个人博客示例文章。</p><h3 id="特性">特性</h3><ul><li>简洁美观的界面</li><li>丰富的配置选项</li><li>支持 Markdown 写作</li><li>响应式设计</li></ul><h3 id="快速开始">快速开始</h3><ol><li>安装依赖：<code>npm install</code></li><li>启动服务：<code>hexo server</code></li><li>创建文章：<code>hexo new &quot;文章标题&quot;</code></li></ol><h3 id="示例代码">示例代码</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;Hello, Hexo!&#x27;</span>);</span><br></pre></td></tr></table></figure><blockquote><p>这是一个引用示例。</p></blockquote><hr><p><strong>现在开始你的博客之旅吧！</strong></p>]]>
+      <![CDATA[<h2 id="欢迎使用-Hexo-Butterfly-博客"><a href="#欢迎使用-Hexo-Butterfly-博客" class="headerlink" title="欢迎使用 Hexo + Butterfly 博客"></a>欢迎使用 Hexo + Butterfly 博客</h2><p>这是一篇使用 Hexo 框架和 Butterfly 主题搭建的个人博客示例文章。</p><h3 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h3><ul><li>简洁美观的界面</li><li>丰富的配置选项</li><li>支持 Markdown 写作</li><li>响应式设计</li></ul><h3 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h3><ol><li>安装依赖：<code>npm install</code></li><li>启动服务：<code>hexo server</code></li><li>创建文章：<code>hexo new &quot;文章标题&quot;</code></li></ol><h3 id="示例代码"><a href="#示例代码" class="headerlink" title="示例代码"></a>示例代码</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;Hello, Hexo!&#x27;</span>);</span><br></pre></td></tr></table></figure><blockquote><p>这是一个引用示例。</p></blockquote><hr><p><strong>现在开始你的博客之旅吧！</strong></p>]]>
     </content>
     <id>https://mcwulin.top/2026/03/22/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
     <link href="https://mcwulin.top/2026/03/22/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
     <published>2026-03-22T08:48:30.000Z</published>
     <summary>
-      <![CDATA[<h2 id="欢迎使用-Hexo-Butterfly-博客">欢迎使用 Hexo + Butterfly 博客</h2>
-<p>这是一篇使用 Hexo 框架和 Butterfly 主题搭建的个人博客示例文章。</p>
-<h3 id="特性">特性</h3>
-<ul>
-<li>简]]>
+      <![CDATA[<h2 id="欢迎使用-Hexo-Butterfly-博客"><a href="#欢迎使用-Hexo-Butterfly-博客" class="headerlink" title="欢迎使用 Hexo + Butterfly 博客"></a>欢迎使用 Hexo + Butter]]>
     </summary>
     <title>欢迎来到我的博客</title>
     <updated>2026-03-22T08:48:43.092Z</updated>
@@ -63,7 +56,7 @@
       <name>Wulin</name>
     </author>
     <content>
-      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
     </content>
     <id>https://mcwulin.top/2026/03/22/hello-world/</id>
     <link href="https://mcwulin.top/2026/03/22/hello-world/"/>
