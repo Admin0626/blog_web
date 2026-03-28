@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的博客
+title: Wulin的小空间
 subtitle: '技术分享与生活记录'
 description: '个人技术博客'
 keywords:
-author: Your Name
+author: Wulin
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
@@ -102,6 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Admin0626/blog_web.git
+  repo: git@github.com:Admin0626/blog_web.git
   branch: gh-pages
-  token: ''
